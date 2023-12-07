@@ -27,4 +27,4 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğ
 
   ## License
 
-  ![MIT](https://choosealicense.com/licenses/mit/)
+  [MIT](https://choosealicense.com/licenses/mit/)
